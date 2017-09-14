@@ -5,3 +5,6 @@
 * To install software in ubuntu using terminal: sudo dpkg -i Skype.deb
 * To update ubuntu: sudo apt-get update
 * To open png image: xdg-open Image.png
+* To Rename file: mv current_file_name.ext new_file_name.ext
+* To delete file: rm -rf File name
+
