@@ -7,4 +7,5 @@
 * To open png image: xdg-open Image.png
 * To Rename file: mv current_file_name.ext new_file_name.ext
 * To delete file: rm -rf File name
-
+* To print the first n lines in a file: head -n 10 /var/log/syslog
+* To print the last n lines in a file: tail -n 10 /var/log/syslog
