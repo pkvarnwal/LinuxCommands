@@ -9,3 +9,5 @@
 * To delete file: rm -rf File name
 * To print the first n lines in a file: head -n 10 /var/log/syslog
 * To print the last n lines in a file: tail -n 10 /var/log/syslog
+* To check that you have locales package installed: dpkg -l locales
+* To make sure that your system an UTF-8 locale is generated. As root: dpkg-reconfigure locales
