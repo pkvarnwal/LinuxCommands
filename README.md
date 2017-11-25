@@ -36,3 +36,6 @@
 
   To paste text in the clipboard - before the location of the cursor:
 * In the command mode, type `P`
+
+## /etc/networks/interface file resolved the issue.
+* iface lo inet dhcp
