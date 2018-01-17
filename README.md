@@ -42,3 +42,6 @@
 
   ## To convert from Video to Audio from URL use below command:
   youtube-dl youtube-url --extract-audio --audio-format mp3
+
+  ## /etc/networks/interface file resolved the issue.
+* iface lo inet dhcp
