@@ -36,3 +36,9 @@
 
   To paste text in the clipboard - before the location of the cursor:
 * In the command mode, type `P`
+
+  ## To kill a runnig software
+  kill -9 <ID> which is looking in system monitor
+
+  ## To convert from Video to Audio from URL use below command:
+  youtube-dl youtube-url --extract-audio --audio-format mp3
