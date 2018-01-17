@@ -40,7 +40,7 @@
   ## To kill a runnig software
   kill -9 <ID> which is looking in system monitor
 
-  ## To convert from Video to Audio from URL use below command:
+* ## To convert from Video to Audio from URL use below command:
   youtube-dl youtube-url --extract-audio --audio-format mp3
 
   ## /etc/networks/interface file resolved the issue.
