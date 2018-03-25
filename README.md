@@ -45,3 +45,7 @@
 
   ## /etc/networks/interface file resolved the issue.
 * iface lo inet dhcp
+
+ ## Test net speed using terminal
+
+* curl -s https://raw.githubusercontent.com/sivel/speedtest-cli/master/speedtest.py | python -
