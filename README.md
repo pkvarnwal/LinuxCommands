@@ -45,3 +45,6 @@
 
   ## /etc/networks/interface file resolved the issue.
 * iface lo inet dhcp
+
+  ## To open pdf file using terminal:
+* xdg-open FileName.pdf
