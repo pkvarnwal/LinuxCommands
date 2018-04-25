@@ -48,3 +48,6 @@
 
   ## To open pdf file using terminal:
 * xdg-open FileName.pdf
+ 
+ ## To format code in vim editor:
+* gg=G
