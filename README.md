@@ -50,4 +50,7 @@
 * xdg-open FileName.pdf
  
  ## To format code in vim editor:
-* gg=G
+* gg=Gi
+
+ ## To install software.deb file:
+* sudo dpkg -i software.deb
