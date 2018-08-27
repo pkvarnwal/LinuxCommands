@@ -54,3 +54,12 @@
 
  ## To install software.deb file:
 * sudo dpkg -i software.deb
+
+ ## To recover PenDrive when corrupt:
+ * fdisk /dev/sdb 
+Command (m for help): d 
+Selected partition 1 
+Command (m for help): w 
+The partition table has been altered! 
+Calling ioctl() to re-read partition table. 
+Syncing disks 
