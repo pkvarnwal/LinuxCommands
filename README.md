@@ -63,3 +63,6 @@ Command (m for help): w
 The partition table has been altered! 
 Calling ioctl() to re-read partition table. 
 Syncing disks 
+
+ ## To hide hidden files:
+ * gsettings set org.gtk.Settings.FileChooser show-hidden false
